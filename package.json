@@ -1,7 +1,7 @@
 {
   "name": "kotzapp",
   "version": "0.1.2",
-  "description": "Nico will Sterben, wir versklaven alle Maxi.",
+  "description": "Nico will Sterben, wir versklaven alle Maxi",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
