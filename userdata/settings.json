@@ -1,0 +1,37 @@
+[
+  {
+    "username": "Maximilian",
+    "theme": true,
+    "notifications": true,
+    "randomBackground": false,
+    "autoJoin": false,
+    "currentBackgroundId": 6,
+    "hideOwner": false
+  },
+  {
+    "username": "Leon",
+    "theme": true,
+    "notifications": true,
+    "randomBackground": false,
+    "autoJoin": false,
+    "currentBackgroundId": 5,
+    "hideOwner": false
+  },
+  {
+    "username": "root",
+    "theme": true,
+    "notifications": true,
+    "randomBackground": true,
+    "autoJoin": false,
+    "currentBackgroundId": 1,
+    "hideOwner": false
+  },
+  {
+    "username": "admin",
+    "theme": true,
+    "notifications": true,
+    "randomBackground": true,
+    "autoJoin": false,
+    "currentBackgroundId": 15
+  }
+]
